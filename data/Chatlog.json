@@ -1,0 +1,138 @@
+[
+    {
+        "role": "user",
+        "content": "hello"
+    },
+    {
+        "role": "assistant",
+        "content": "Hello Divyansh. How can I assist you today?"
+    },
+    {
+        "role": "user",
+        "content": "kyse ho"
+    },
+    {
+        "role": "assistant",
+        "content": "Main theek hoon. Kya aapki koi vishisht jagah hai jahan main aapki madad kar sakta hoon?"
+    },
+    {
+        "role": "user",
+        "content": "tell me about the weather of lucknow"
+    },
+    {
+        "role": "assistant",
+        "content": "As of my knowledge, Lucknow is experiencing a hot and humid climate in September, with average high temperatures ranging from 33\u00b0C to 36\u00b0C (91\u00b0F to 97\u00b0F) and average low temperatures around 22\u00b0C to 25\u00b0C (72\u00b0F to 77\u00b0F)."
+    },
+    {
+        "role": "user",
+        "content": "remember that i am 20 year old"
+    },
+    {
+        "role": "assistant",
+        "content": "As a 20-year-old, you're likely looking for more current and specific weather information. Unfortunately, I don't have real-time access to current weather conditions. However, I can suggest checking a reliable weather website or app for the most up-to-date information on the weather in Lucknow."
+    },
+    {
+        "role": "user",
+        "content": "tell me my age"
+    },
+    {
+        "role": "assistant",
+        "content": "Your age is 20 years old."
+    },
+    {
+        "role": "user",
+        "content": "& C:/Users/Lenovo/Desktop/hciP/venv/Scripts/python.exe c:/Users/Lenovo/Desktop/hciP/backend/RealtimeSearchEngine.py"
+    },
+    {
+        "role": "assistant",
+        "content": "It appears to be a Python script execution command."
+    },
+    {
+        "role": "user",
+        "content": "kyse ho"
+    },
+    {
+        "role": "assistant",
+        "content": "Aapko jo script execute karne ki koshish kar rahi thi, yah kya kar rahi hai?"
+    },
+    {
+        "role": "user",
+        "content": "who is elon musk"
+    },
+    {
+        "role": "assistant",
+        "content": "Elon Musk is a business magnate, investor, and engineer. He is the CEO of SpaceX and Tesla, Inc. He is also the founder of Neuralink and The Boring Company. Musk is known for his ambitious projects and vision for the future, including establishing a human settlement on Mars, developing sustainable energy solutions, and revolutionizing transportation through electric vehicles and high-speed tunnels."
+    },
+    {
+        "role": "user",
+        "content": "stock of apple"
+    },
+    {
+        "role": "assistant",
+        "content": "Unfortunately, I don't have real-time information on the current stock price of Apple. However, I can suggest checking a reliable financial website or platform, such as Bloomberg or Yahoo Finance, for the most up-to-date information on Apple's stock performance. If you're looking for information on Apple's stock as of my knowledge cutoff, I can try to provide you with some general information. Would you like that?"
+    },
+    {
+        "role": "user",
+        "content": "yes"
+    },
+    {
+        "role": "assistant",
+        "content": "As of my knowledge cutoff, Apple Inc. is a publicly-traded company listed on the NASDAQ stock exchange under the ticker symbol AAPL. However, I don't have the current stock price or real-time market data. \n\nTo get the most recent information, I recommend checking a financial website or platform, such as Yahoo Finance or Google Finance, which provides real-time stock quotes, charts, and news. You can also check the NASDAQ website for the latest information on Apple's stock performance.\n\nIf you're looking for historical data or general information about Apple's stock, I can try to provide you with some information. Please let me know what you're looking for."
+    },
+    {
+        "role": "user",
+        "content": "what is value of pie up to 100 digit"
+    },
+    {
+        "role": "assistant",
+        "content": "The value of pi (\u03c0) is an irrational number and it goes on forever without repeating. Here are the first 100 digits of pi:\n\n3.1415926535897932384626433832795028841971693993751058209749445923078164062862089986280348253421170679"
+    },
+    {
+        "role": "user",
+        "content": "what is todays date"
+    },
+    {
+        "role": "assistant",
+        "content": "Today's date is Friday, 12th September 2025. The current time is 01:55:37 hours."
+    },
+    {
+        "role": "user",
+        "content": "what is current sensex points"
+    },
+    {
+        "role": "assistant",
+        "content": "I don't have the current Sensex points as my search results are empty. I would recommend checking a reliable financial website or platform, such as Moneycontrol or Bloomberg, for the most up-to-date information on the current Sensex points."
+    },
+    {
+        "role": "user",
+        "content": "stock of apple"
+    },
+    {
+        "role": "assistant",
+        "content": "As I mentioned earlier, my search results for 'stock of apple' are empty. I don't have the current stock price or real-time market data for Apple Inc. I would recommend checking a reliable financial website or platform, such as Yahoo Finance or Google Finance, for the most up-to-date information on Apple's stock performance."
+    },
+    {
+        "role": "user",
+        "content": "who is elon musk"
+    },
+    {
+        "role": "assistant",
+        "content": "Elon Musk is a business magnate, investor, and engineer. He is the CEO of SpaceX and Tesla, Inc. He is also the founder of Neuralink and The Boring Company. Musk is known for his ambitious projects and vision for the future, including establishing a human settlement on Mars, developing sustainable energy solutions, and revolutionizing transportation through electric vehicles and high-speed tunnels."
+    },
+    {
+        "role": "user",
+        "content": "& C:/Users/Lenovo/Desktop/hciP/venv/Scripts/python.exe c:/Users/Lenovo/Desktop/hciP/Backend/ImageGeneration.py"
+    },
+    {
+        "role": "assistant",
+        "content": "It appears to be a Python script execution command."
+    },
+    {
+        "role": "user",
+        "content": "when will year 2027 come?"
+    },
+    {
+        "role": "assistant",
+        "content": "The year 2027 will come on January 1, 2027. As of today's date, September 12, 2025, the year 2027 is approximately 1 year and 3 months away."
+    }
+]
